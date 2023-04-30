@@ -1,0 +1,18 @@
+.*swp
+.*swo
+
+# Btye-compiled / optimized / DLL files
+__pycache_/_
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+tmp
+build
+.git/
+
+# file
+test.mp4
+test.mp4:Zone.Identifier
